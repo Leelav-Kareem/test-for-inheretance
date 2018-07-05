@@ -25,6 +25,7 @@ class ParentRecodedTest
 	public final String clothesCompanyName="tita";
 	public int priceMultiplieNumbers(int priceHatw,int numberHatw)
 	{
+		//Use a more descriptive variable name
 		int price=priceHatw;
 		int number =numberHatw;
 		return (price*number);
